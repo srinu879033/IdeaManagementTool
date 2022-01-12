@@ -2,7 +2,9 @@
 
 # Idea Management Tool is a project to write down the ideas that you get at any instance or to write important notes.
 
-To see the demo of this website use,the below link #https://drive.google.com/file/d/14HxnaWqLl5cY92c1JW9F-Tad68tb9YeI/view?usp=sharing
+To see the demo of this website use,the below link
+
+#https://drive.google.com/file/d/14HxnaWqLl5cY92c1JW9F-Tad68tb9YeI/view?usp=sharing
 
 ![Screenshot 2022-01-12 194552](https://user-images.githubusercontent.com/57582927/149157239-3be362b2-13a0-4d6e-8c90-cea73a63f9c0.jpg)
 
@@ -18,9 +20,9 @@ Or If you wanna run locally
 
 2. Run the following commands in the command prompt
 
-1.yarn install
+#yarn install
 
-2.yarn start
+#yarn start
 
 Now the app will run on localhost:3000
 
