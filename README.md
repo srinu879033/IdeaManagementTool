@@ -22,9 +22,9 @@ Or If you wanna run locally
 
 2. Run the following commands in the command prompt
 
-#yarn install
+yarn install
 
-#yarn start
+yarn start
 
 Now the app will run on localhost:3000
 
