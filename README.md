@@ -14,6 +14,8 @@ To use the website
 
 Checkout the app here
 
+https://srinu879033.github.io/IdeaManagementTool/
+
 Or If you wanna run locally
 
 1. Clone the repository
