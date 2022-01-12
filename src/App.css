@@ -44,21 +44,6 @@ body {
   border: 1px solid black;
 }
 
-.zoomout {
-  position: absolute;
-  top: 5px;
-  left: 50px;
-  padding: 2px;
-  color: black;
-}
-
-.zoomin {
-  position: absolute;
-  top: 5px;
-  padding: 2px;
-  color: black;
-}
-
 .note-head {
   background-color: #ab34eb;
   padding: 5px 10px 5px 10px;

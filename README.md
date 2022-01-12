@@ -2,7 +2,7 @@
 
 # Idea Management Tool is a project to write down the ideas that you get at any instance or to write important notes.
 
-To see the demo of this website use,the below link
+To see the demo of this website use,the below link #https://drive.google.com/file/d/14HxnaWqLl5cY92c1JW9F-Tad68tb9YeI/view?usp=sharing
 
 ![Screenshot 2022-01-12 194552](https://user-images.githubusercontent.com/57582927/149157239-3be362b2-13a0-4d6e-8c90-cea73a63f9c0.jpg)
 
