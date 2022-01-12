@@ -1,0 +1,81 @@
+body {
+  background-color: white;
+}
+
+#add-btn {
+  float: right;
+}
+
+.fa-trash,
+.fa-pencil {
+  color: brown;
+  float: right;
+}
+
+.header {
+  font-size: 1.7rem;
+  font-weight: bolder;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.group {
+  display: inline-block;
+  min-width: 300;
+  background-color: #ececec;
+  padding: 2px;
+  margin: 5px;
+}
+
+.highlight {
+  display: inline-block;
+  width: 200px;
+  word-wrap: break-word;
+  padding: 20px;
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.head-box {
+  background-color: white;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid black;
+}
+
+.zoomout {
+  position: absolute;
+  top: 5px;
+  left: 50px;
+  padding: 2px;
+  color: black;
+}
+
+.zoomin {
+  position: absolute;
+  top: 5px;
+  padding: 2px;
+  color: black;
+}
+
+.note-head {
+  background-color: #ab34eb;
+  padding: 5px 10px 5px 10px;
+  margin-bottom: 16px;
+  color: white;
+  border-radius: 3px;
+  min-width: 50;
+
+  align-self: center;
+}
+.icon {
+  border-style: none;
+  border-radius: 50%;
+}
+.zoom {
+  position: fixed;
+  margin: 16;
+  bottom: 0;
+  right: 0;
+}
