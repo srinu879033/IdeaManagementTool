@@ -24,12 +24,14 @@ Or If you wanna run locally
 
 Now the app will run on localhost:3000
 
-1.Add/ Remove/ Edit highlights.
+1- Ability to add/remove/edit highlights
 
-2.Highlights can be grouped in buckets.
+2- Ability to create buckets to group highlights in
 
-3.Highlights can move from one bucket to another.
+3- Ability to group highlights into buckets
 
-4.Zoom In/ Zoom Out of whiteboard, resizing the idea management tool components themselves.
+4- Ability to move highlights from one bucket to another.
+
+5-Ability to zoom in/zoom out of the whiteboard, resizing the Idea management tool components themselves.
 
 ![Screenshot 2022-01-12 194710](https://user-images.githubusercontent.com/57582927/149158550-f6444005-c0ff-458f-a5f1-cf0face3bcee.jpg)

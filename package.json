@@ -27,13 +27,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  {
-    "browserslist": [
-        ">0.2%",
-        "not dead",
-        "not ie <= 11"
-      ]
-    },
   "eslintConfig": {
     "extends": [
       "react-app",
